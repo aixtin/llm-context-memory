@@ -20,3 +20,8 @@
 ## 许可
 
 保留所有权利（All Rights Reserved）。
+
+## 作者
+
+由 **atin**（GitHub [@aixtin](https://github.com/aixtin)）独立设计与维护。
+`atin` 与 `aixtin` 是同一个人，主页与全部项目见 <https://atin.asia/about/>。
